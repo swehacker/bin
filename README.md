@@ -84,6 +84,14 @@ or by adding it to the command line:
 ```
 mvn test -Dmaven.test.skip=true
 ```
+### Multi module project and versioning
+To simplify the versioning in multi pom project you can use the built-in properties for the project version and groupId.
+```
+<dependency>
+  <groupId>${project.groupId}</groupId>
+  <artifactId>my-sub-module</artifactId>
+  <groupId>${project.version}</groupId>
+```
 
 ### Maven references
 Maven by example http://books.sonatype.com/mvnex-book/
