@@ -15,3 +15,9 @@ screen  /dev/tty.usbmodemfa2321 115200
 ```
 screen  /dev/tty.usbmodemfa2321 115200,cs8,-cstopb,-parity,-crtscts
 ```
+
+#### USB to serial
+```
+screen /dev/tty.KeySerial1 9600
+```
+
