@@ -43,6 +43,17 @@ List all dependencies in a project
 ```
 mvn dependencies:resolve
 ```
+
+Analyze the dependencies:
+```
+mvn dependency:analyze
+```
+
+Get a dependency tree
+```
+mvn dependency:tree
+```
+
 ### Test
 #### Ignoring test failures
 If your are building software guided with test, then it can be annoying to have the test fail every time you build, this is how to ignore test failures.
