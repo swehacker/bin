@@ -76,3 +76,8 @@ PING google.com (216.58.201.174) 56(84) bytes of data.
 ```
 !$
 ```
+
+### Reuse the nth parameter from the last command
+```
+!!:<number>
+```
