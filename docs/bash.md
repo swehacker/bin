@@ -44,8 +44,9 @@ If your last command was uptime you can write
 And it will automatically find last command that starts with u and run it.
 
 ### Reuse the last commands first parameter
-```!^```
-
+```
+!^
+```
 e.g
 ```
 host google.com
@@ -72,4 +73,6 @@ PING google.com (216.58.201.174) 56(84) bytes of data.
 ```
 
 ### Reuse the last commands last parameter
-```!$```
+```
+!$
+```
