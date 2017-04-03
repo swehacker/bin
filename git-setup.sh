@@ -1,6 +1,9 @@
 git config --global user.name "Patrik Falk"
 git config --global user.email "<patrik@patrikfalk.com>"
 
+# Configure Git on Windows to properly handle line endings
+#git config --global core.autocrlf true
+
 # Git autocorrect on
 git config --global help.autocorrect 1
 
