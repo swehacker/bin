@@ -1,0 +1,6 @@
+#!/bin/bash
+export JAVA_HOME=`/usr/libexec/java_home -v $@`
+echo "JAVA_HOME:" $JAVA_HOME
+echo "java -version:"
+java -version
+
