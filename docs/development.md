@@ -3,3 +3,8 @@
 ```
 brew cask install qlstephen
 ```
+## Quick Look support with Color highlights for source code
+```
+brew install highlight
+brew cask install qlcolorcode
+```
