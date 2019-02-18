@@ -1,0 +1,17 @@
+= Apps that I like
+
+== Tools
+
+.Alfred
+https://www.alfredapp.com
+
+.Helium - Picture in Picture
+https://itunes.apple.com/se/app/helium/id1054607607?mt=12
+
+.Nightowl - Fix dark theme
+https://nightowl.kramser.xyz/
+
+== Entertainment
+
+.Plug - Hyper machine app
+https://www.plugformac.com/
