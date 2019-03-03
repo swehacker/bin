@@ -1,0 +1,20 @@
+= Privat bin
+
+Scripts, commands, and text to help (remembering) my daily work.
+
+== Commands
+
+=== chj - Change Java Version
+Simple and fast command to change between java versions in the console.
+Follow the jdk version numbering; 1.7, 1.8, 9, 10, 11 and so on.
+You need the source modifier if you want to make it permanent for the current console, or else it will only change for the commands executed on the same line.
+
+. Change to java 8
+----
+. chj 1.8
+----
+
+.Change to java 11
+----
+. chj 11
+----
